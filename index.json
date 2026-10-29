@@ -1,0 +1,216 @@
+{
+  "schema": 1,
+  "updated": "2026-10-29T10:32:39.551Z",
+  "games": {
+    "com.HoYoverse.Nap": {
+      "name": "Zenless Zone Zero",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.HoYoverse.Nap-3194bac1.png",
+      "source": "https://play.google.com/store/apps/details?id=com.HoYoverse.Nap&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:35.590Z"
+    },
+    "com.HoYoverse.hkrpgoversea": {
+      "name": "Honkai: Star Rail",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.HoYoverse.hkrpgoversea-5ab67143.png",
+      "source": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:35.501Z"
+    },
+    "com.YoStarEN.Arknights": {
+      "name": "Arknights",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.YoStarEN.Arknights-951fc393.png",
+      "source": "https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:39.477Z"
+    },
+    "com.activision.callofduty.shooter": {
+      "name": "Call of Duty®: Mobile",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.activision.callofduty.shooter-0ca0c1e7.jpg",
+      "source": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:36.219Z"
+    },
+    "com.axlebolt.standoff2": {
+      "name": "Standoff 2",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.axlebolt.standoff2-89c7f274.jpg",
+      "source": "https://play.google.com/store/apps/details?id=com.axlebolt.standoff2&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:38.599Z"
+    },
+    "com.bluepoch.m.en.reverse1999": {
+      "name": "Reverse: 1999",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.bluepoch.m.en.reverse1999-5f63d38e.png",
+      "source": "https://play.google.com/store/apps/details?id=com.bluepoch.m.en.reverse1999&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:39.551Z"
+    },
+    "com.dts.freefiremax": {
+      "name": "Free Fire MAX x NARUTO",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.dts.freefiremax-739dac7a.png",
+      "source": "https://play.google.com/store/apps/details?id=com.dts.freefiremax&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:36.898Z"
+    },
+    "com.dts.freefireth": {
+      "name": "Free Fire x NARUTO SHIPPUDEN",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.dts.freefireth-0767cfdb.png",
+      "source": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:36.741Z"
+    },
+    "com.ea.gp.fifamobile": {
+      "name": "EA SPORTS FC Soccer Mobile 27",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.ea.gp.fifamobile-ec4a0003.png",
+      "source": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:38.527Z"
+    },
+    "com.gameloft.android.ANMP.GloftA9HM": {
+      "name": "Asphalt Legends - Racing Game",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.gameloft.android.ANMP.GloftA9HM-b89b6c59.png",
+      "source": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:38.059Z"
+    },
+    "com.garena.game.codm": {
+      "name": "Call of Duty®: Mobile - Garena",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.garena.game.codm-3310547d.png",
+      "source": "https://play.google.com/store/apps/details?id=com.garena.game.codm&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:36.323Z"
+    },
+    "com.innersloth.spacemafia": {
+      "name": "Among Us",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.innersloth.spacemafia-015d1cec.jpg",
+      "source": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:37.622Z"
+    },
+    "com.kiloo.subwaysurf": {
+      "name": "Subway Surfers",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.kiloo.subwaysurf-f13ffcc7.png",
+      "source": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:39.064Z"
+    },
+    "com.king.candycrushsaga": {
+      "name": "Candy Crush Saga",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.king.candycrushsaga-f5253227.png",
+      "source": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:39.168Z"
+    },
+    "com.kitkagames.fallbuddies": {
+      "name": "Stumble Guys",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.kitkagames.fallbuddies-01386786.jpg",
+      "source": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:38.965Z"
+    },
+    "com.levelinfinite.sgameGlobal": {
+      "name": "Honor of Kings",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.levelinfinite.sgameGlobal-1bc013eb.png",
+      "source": "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:37.064Z"
+    },
+    "com.miHoYo.GenshinImpact": {
+      "name": "Genshin Impact",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.miHoYo.GenshinImpact-2403b19f.png",
+      "source": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:35.408Z"
+    },
+    "com.miHoYo.bh3": {
+      "name": "Honkai Impact 3rd",
+      "icon": "https://cdn.discordapp.com/app-icons/1124351937098301590/eb88c509a5ab7dc61085e95df1716a99.webp?size=512",
+      "source": "discord",
+      "updated": "2026-10-29T10:32:35.590Z"
+    },
+    "com.miniclip.eightballpool": {
+      "name": "8 Ball Pool",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.miniclip.eightballpool-fb43c20a.png",
+      "source": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:39.395Z"
+    },
+    "com.mobile.legends": {
+      "name": "Mobile Legends: Bang Bang",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.mobile.legends-134f9299.png",
+      "source": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en",
+      "updated": "2026-10-29T10:32:36.575Z"
+    },
+    "com.mojang.minecraftpe": {
+      "name": "Minecraft: Dream it, Build it!",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.mojang.minecraftpe-76912545.png",
+      "source": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:37.800Z"
+    },
+    "com.netease.idv.googleplay": {
+      "name": "Identity V",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.netease.idv.googleplay-c956c71f.jpg",
+      "source": "https://play.google.com/store/apps/details?id=com.netease.idv.googleplay&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:38.688Z"
+    },
+    "com.netease.mrzhna": {
+      "name": "LifeAfter",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.netease.mrzhna-d612cfdc.png",
+      "source": "https://play.google.com/store/apps/details?id=com.netease.mrzhna&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:38.795Z"
+    },
+    "com.nianticlabs.pokemongo": {
+      "name": "Pokémon GO",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.nianticlabs.pokemongo-c5e973bd.png",
+      "source": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:38.178Z"
+    },
+    "com.pubg.krmobile": {
+      "name": "PUBG Mobile",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.pubg.krmobile-d30f7adc.png",
+      "source": "https://play.google.com/store/apps/details?id=com.pubg.krmobile&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:35.993Z"
+    },
+    "com.rekoo.pubgm": {
+      "name": "PUBG MOBILE：絕地求生M",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.rekoo.pubgm-e2e39be3.png",
+      "source": "https://play.google.com/store/apps/details?id=com.rekoo.pubgm&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:35.900Z"
+    },
+    "com.riotgames.league.wildrift": {
+      "name": "League of Legends: Wild Rift",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.riotgames.league.wildrift-31bd572a.jpg",
+      "source": "https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:36.966Z"
+    },
+    "com.roblox.client": {
+      "name": "Roblox",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.roblox.client-9b7f4ba0.png",
+      "source": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:37.885Z"
+    },
+    "com.supercell.brawlstars": {
+      "name": "Brawl Stars",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.supercell.brawlstars-739a1e56.png",
+      "source": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:37.549Z"
+    },
+    "com.supercell.clashofclans": {
+      "name": "Clash of Clans",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.supercell.clashofclans-1a19c31c.png",
+      "source": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:37.276Z"
+    },
+    "com.supercell.clashroyale": {
+      "name": "Clash Royale",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.supercell.clashroyale-1e1afbf8.png",
+      "source": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:37.467Z"
+    },
+    "com.tencent.ig": {
+      "name": "PUBG MOBILE",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.tencent.ig-5ac55540.png",
+      "source": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:35.809Z"
+    },
+    "com.tgc.sky.android": {
+      "name": "Sky: Children of the Light",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.tgc.sky.android-f625e12a.png",
+      "source": "https://play.google.com/store/apps/details?id=com.tgc.sky.android&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:38.882Z"
+    },
+    "com.vng.pubgmobile": {
+      "name": "PUBG Mobile VN",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.vng.pubgmobile-86dbcdb0.png",
+      "source": "https://play.google.com/store/apps/details?id=com.vng.pubgmobile&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:36.121Z"
+    },
+    "jp.konami.pesam": {
+      "name": "eFootball™",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/jp.konami.pesam-dcf14649.png",
+      "source": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=en&gl=US",
+      "updated": "2026-10-29T10:32:38.295Z"
+    }
+  }
+}

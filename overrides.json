@@ -1,0 +1,10 @@
+{
+  "com.miHoYo.GenshinImpact": {
+    "name": "Genshin Impact"
+  },
+  "com.miHoYo.bh3": {
+    "name": "Honkai Impact 3rd",
+    "icon": "https://cdn.discordapp.com/app-icons/1124351937098301590/eb88c509a5ab7dc61085e95df1716a99.webp?size=512",
+    "source": "discord"
+  }
+}
