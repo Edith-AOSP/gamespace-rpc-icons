@@ -1,37 +1,218 @@
 [
-  { "package": "com.miHoYo.GenshinImpact" },
-  { "package": "com.HoYoverse.hkrpgoversea" },
-  { "package": "com.HoYoverse.Nap" },
-  { "package": "com.miHoYo.bh3" },
-  { "package": "com.tencent.ig" },
-  { "package": "com.rekoo.pubgm" },
-  { "package": "com.pubg.krmobile" },
-  { "package": "com.vng.pubgmobile" },
-  { "package": "com.activision.callofduty.shooter" },
-  { "package": "com.garena.game.codm" },
-  { "package": "com.mobile.legends" },
-  { "package": "com.dts.freefireth" },
-  { "package": "com.dts.freefiremax" },
-  { "package": "com.riotgames.league.wildrift" },
-  { "package": "com.levelinfinite.sgameGlobal" },
-  { "package": "com.supercell.clashofclans" },
-  { "package": "com.supercell.clashroyale" },
-  { "package": "com.supercell.brawlstars" },
-  { "package": "com.innersloth.spacemafia" },
-  { "package": "com.mojang.minecraftpe" },
-  { "package": "com.roblox.client" },
-  { "package": "com.gameloft.android.ANMP.GloftA9HM" },
-  { "package": "com.nianticlabs.pokemongo" },
-  { "package": "jp.konami.pesam" },
-  { "package": "com.ea.gp.fifamobile" },
-  { "package": "com.axlebolt.standoff2" },
-  { "package": "com.netease.idv.googleplay" },
-  { "package": "com.netease.mrzhna" },
-  { "package": "com.tgc.sky.android" },
-  { "package": "com.kitkagames.fallbuddies" },
-  { "package": "com.kiloo.subwaysurf" },
-  { "package": "com.king.candycrushsaga" },
-  { "package": "com.miniclip.eightballpool" },
-  { "package": "com.YoStarEN.Arknights" },
-  { "package": "com.bluepoch.m.en.reverse1999" }
+  {
+    "package": "com.miHoYo.GenshinImpact"
+  },
+  {
+    "package": "com.HoYoverse.hkrpgoversea"
+  },
+  {
+    "package": "com.HoYoverse.Nap"
+  },
+  {
+    "package": "com.miHoYo.bh3"
+  },
+  {
+    "package": "com.tencent.ig"
+  },
+  {
+    "package": "com.rekoo.pubgm"
+  },
+  {
+    "package": "com.pubg.krmobile"
+  },
+  {
+    "package": "com.vng.pubgmobile"
+  },
+  {
+    "package": "com.activision.callofduty.shooter"
+  },
+  {
+    "package": "com.garena.game.codm"
+  },
+  {
+    "package": "com.mobile.legends"
+  },
+  {
+    "package": "com.dts.freefireth"
+  },
+  {
+    "package": "com.dts.freefiremax"
+  },
+  {
+    "package": "com.riotgames.league.wildrift"
+  },
+  {
+    "package": "com.levelinfinite.sgameGlobal"
+  },
+  {
+    "package": "com.supercell.clashofclans"
+  },
+  {
+    "package": "com.supercell.clashroyale"
+  },
+  {
+    "package": "com.supercell.brawlstars"
+  },
+  {
+    "package": "com.innersloth.spacemafia"
+  },
+  {
+    "package": "com.mojang.minecraftpe"
+  },
+  {
+    "package": "com.roblox.client"
+  },
+  {
+    "package": "com.gameloft.android.ANMP.GloftA9HM"
+  },
+  {
+    "package": "com.nianticlabs.pokemongo"
+  },
+  {
+    "package": "jp.konami.pesam"
+  },
+  {
+    "package": "com.ea.gp.fifamobile"
+  },
+  {
+    "package": "com.axlebolt.standoff2"
+  },
+  {
+    "package": "com.netease.idv.googleplay"
+  },
+  {
+    "package": "com.netease.mrzhna"
+  },
+  {
+    "package": "com.tgc.sky.android"
+  },
+  {
+    "package": "com.kitkagames.fallbuddies"
+  },
+  {
+    "package": "com.kiloo.subwaysurf"
+  },
+  {
+    "package": "com.king.candycrushsaga"
+  },
+  {
+    "package": "com.miniclip.eightballpool"
+  },
+  {
+    "package": "com.YoStarEN.Arknights"
+  },
+  {
+    "package": "com.bluepoch.m.en.reverse1999"
+  },
+  {
+    "package": "com.kurogame.wutheringwaves.global"
+  },
+  {
+    "package": "com.kurogame.gplay.punishing.grayraven.en"
+  },
+  {
+    "package": "com.pubg.newstate"
+  },
+  {
+    "package": "com.tencent.iglite"
+  },
+  {
+    "package": "com.activision.callofduty.warzone"
+  },
+  {
+    "package": "com.riotgames.league.wildrifttw"
+  },
+  {
+    "package": "com.riotgames.league.wildriftvn"
+  },
+  {
+    "package": "com.supercell.hayday"
+  },
+  {
+    "package": "com.supercell.boombeach"
+  },
+  {
+    "package": "com.playrix.homescapes"
+  },
+  {
+    "package": "com.playrix.gardenscapes"
+  },
+  {
+    "package": "com.dreamgames.royalmatch"
+  },
+  {
+    "package": "com.scopely.monopolygo"
+  },
+  {
+    "package": "com.ea.game.pvz2_row"
+  },
+  {
+    "package": "com.rockstargames.gtasa"
+  },
+  {
+    "package": "com.rockstargames.gtavc"
+  },
+  {
+    "package": "com.t2ksports.nba2k24"
+  },
+  {
+    "package": "com.ea.gp.nbamobile"
+  },
+  {
+    "package": "com.ea.gp.maddenmobile"
+  },
+  {
+    "package": "com.gameloft.android.ANMP.GloftA8HM"
+  },
+  {
+    "package": "com.bandainamcoent.dblegends_ww"
+  },
+  {
+    "package": "com.bandainamcoent.opbr"
+  },
+  {
+    "package": "com.nexon.bluearchive"
+  },
+  {
+    "package": "com.aniplex.fategrandorder.en"
+  },
+  {
+    "package": "com.hypergryph.arknights"
+  },
+  {
+    "package": "com.Sunborn.SnqxExilium.Glo"
+  },
+  {
+    "package": "com.proximabeta.mf.uamo"
+  },
+  {
+    "package": "com.tencent.tmgp.dfm"
+  },
+  {
+    "package": "com.tencent.tmgp.cf"
+  },
+  {
+    "package": "com.tencent.tmgp.pubgmhd"
+  },
+  {
+    "package": "com.tencent.tmgp.sgame"
+  },
+  {
+    "package": "com.netease.dwrg"
+  },
+  {
+    "package": "com.netease.g93na"
+  },
+  {
+    "package": "com.hotta.hotta"
+  },
+  {
+    "package": "com.papegames.nn4"
+  },
+  {
+    "package": "com.miHoYo.hkrpg"
+  },
+  {
+    "package": "com.tencent.tmgp.wec"
+  }
 ]
