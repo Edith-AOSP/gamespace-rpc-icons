@@ -1,342 +1,744 @@
 {
   "schema": 1,
-  "updated": "2026-10-29T15:01:39.093Z",
+  "updated": "2026-10-29T15:06:39.540Z",
   "games": {
     "com.HoYoverse.Nap": {
       "name": "Zenless Zone Zero",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.HoYoverse.Nap-3194bac1.png",
       "source": "https://play.google.com/store/apps/details?id=com.HoYoverse.Nap&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:31.014Z"
+      "updated": "2026-10-29T15:06:00.727Z"
     },
     "com.HoYoverse.hkrpgoversea": {
       "name": "Honkai: Star Rail",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.HoYoverse.hkrpgoversea-5ab67143.png",
       "source": "https://play.google.com/store/apps/details?id=com.HoYoverse.hkrpgoversea&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:30.914Z"
+      "updated": "2026-10-29T15:06:00.534Z"
+    },
+    "com.Slack": {
+      "name": "Slack",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.Slack-1f4326c2.png",
+      "source": "https://play.google.com/store/apps/details?id=com.Slack&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:21.393Z"
     },
     "com.Sunborn.SnqxExilium.Glo": {
       "name": "GIRLS' FRONTLINE 2: EXILIUM",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.Sunborn.SnqxExilium.Glo-c843dc51.png",
       "source": "https://play.google.com/store/apps/details?id=com.Sunborn.SnqxExilium.Glo&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:38.226Z"
+      "updated": "2026-10-29T15:06:14.946Z"
     },
     "com.YoStarEN.Arknights": {
       "name": "Arknights",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.YoStarEN.Arknights-951fc393.png",
       "source": "https://play.google.com/store/apps/details?id=com.YoStarEN.Arknights&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:35.069Z"
+      "updated": "2026-10-29T15:06:07.370Z"
     },
     "com.activision.callofduty.shooter": {
       "name": "Call of Duty®: Mobile",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.activision.callofduty.shooter-0ca0c1e7.jpg",
       "source": "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:31.711Z"
+      "updated": "2026-10-29T15:06:01.551Z"
+    },
+    "com.adobe.reader": {
+      "name": "Adobe Acrobat Reader: Edit PDF",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.adobe.reader-0ef1f496.png",
+      "source": "https://play.google.com/store/apps/details?id=com.adobe.reader&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:39.351Z"
+    },
+    "com.airbnb.android": {
+      "name": "Airbnb",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.airbnb.android-4cef3004.png",
+      "source": "https://play.google.com/store/apps/details?id=com.airbnb.android&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:37.306Z"
+    },
+    "com.alibaba.aliexpresshd": {
+      "name": "AliExpress - Shopping App",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.alibaba.aliexpresshd-22b8b57d.jpg",
+      "source": "https://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:25.948Z"
+    },
+    "com.amazon.avod.thirdpartyclient": {
+      "name": "Prime Video",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.amazon.avod.thirdpartyclient-a1342a92.png",
+      "source": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:19.915Z"
+    },
+    "com.amazon.mShop.android.shopping": {
+      "name": "Amazon Shopping",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.amazon.mShop.android.shopping-83e2070d.png",
+      "source": "https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:36.468Z"
+    },
+    "com.amazon.mp3": {
+      "name": "Amazon Music: Songs & Podcasts",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.amazon.mp3-a58043d5.png",
+      "source": "https://play.google.com/store/apps/details?id=com.amazon.mp3&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:23.231Z"
+    },
+    "com.android.chrome": {
+      "name": "Google Chrome",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.android.chrome-02390802.png",
+      "source": "https://play.google.com/store/apps/details?id=com.android.chrome&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:22.694Z"
     },
     "com.aniplex.fategrandorder.en": {
       "name": "Fate/Grand Order (English)",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.aniplex.fategrandorder.en-1b281c81.png",
       "source": "https://play.google.com/store/apps/details?id=com.aniplex.fategrandorder.en&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:37.930Z"
+      "updated": "2026-10-29T15:06:13.416Z"
+    },
+    "com.apple.android.music": {
+      "name": "Apple Music",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.apple.android.music-22d74e45.png",
+      "source": "https://play.google.com/store/apps/details?id=com.apple.android.music&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:23.530Z"
     },
     "com.axlebolt.standoff2": {
       "name": "Standoff 2",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.axlebolt.standoff2-89c7f274.jpg",
       "source": "https://play.google.com/store/apps/details?id=com.axlebolt.standoff2&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:34.061Z"
+      "updated": "2026-10-29T15:06:06.179Z"
     },
     "com.bandainamcoent.dblegends_ww": {
       "name": "DRAGON BALL LEGENDS",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.bandainamcoent.dblegends_ww-bf41f75c.png",
       "source": "https://play.google.com/store/apps/details?id=com.bandainamcoent.dblegends_ww&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:37.641Z"
+      "updated": "2026-10-29T15:06:12.660Z"
     },
     "com.bluepoch.m.en.reverse1999": {
       "name": "Reverse: 1999",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.bluepoch.m.en.reverse1999-5f63d38e.png",
       "source": "https://play.google.com/store/apps/details?id=com.bluepoch.m.en.reverse1999&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:35.176Z"
+      "updated": "2026-10-29T15:06:07.628Z"
+    },
+    "com.booking": {
+      "name": "Booking.com: Hotels & Travel",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.booking-4fc662d9.png",
+      "source": "https://play.google.com/store/apps/details?id=com.booking&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:37.411Z"
+    },
+    "com.box.android": {
+      "name": "Box",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.box.android-ee7dddd1.png",
+      "source": "https://play.google.com/store/apps/details?id=com.box.android&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:37.964Z"
+    },
+    "com.brave.browser": {
+      "name": "Brave Private Web Browser, VPN",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.brave.browser-5a5c2836.png",
+      "source": "https://play.google.com/store/apps/details?id=com.brave.browser&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:22.880Z"
+    },
+    "com.discord": {
+      "name": "Discord - Talk, Play, Hang Out",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.discord-3479d5ac.png",
+      "source": "https://play.google.com/store/apps/details?id=com.discord&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:17.780Z"
+    },
+    "com.disney.disneyplus": {
+      "name": "Disney+",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.disney.disneyplus-e4050d28.png",
+      "source": "https://play.google.com/store/apps/details?id=com.disney.disneyplus&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:20.022Z"
     },
     "com.dreamgames.royalmatch": {
       "name": "Royal Match",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.dreamgames.royalmatch-2ecb6575.png",
       "source": "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:36.669Z"
+      "updated": "2026-10-29T15:06:11.538Z"
+    },
+    "com.dropbox.android": {
+      "name": "Dropbox: Secure Cloud Storage",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.dropbox.android-56875afa.png",
+      "source": "https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:37.841Z"
     },
     "com.dts.freefiremax": {
       "name": "Free Fire MAX x NARUTO",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.dts.freefiremax-739dac7a.png",
       "source": "https://play.google.com/store/apps/details?id=com.dts.freefiremax&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:32.298Z"
+      "updated": "2026-10-29T15:06:03.079Z"
     },
     "com.dts.freefireth": {
       "name": "Free Fire x NARUTO SHIPPUDEN",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.dts.freefireth-0767cfdb.png",
       "source": "https://play.google.com/store/apps/details?id=com.dts.freefireth&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:32.205Z"
+      "updated": "2026-10-29T15:06:02.785Z"
+    },
+    "com.duolingo": {
+      "name": "Duolingo: Learn Languages",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.duolingo-8c5b9901.png",
+      "source": "https://play.google.com/store/apps/details?id=com.duolingo&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:39.540Z"
     },
     "com.ea.game.pvz2_row": {
       "name": "Plants vs Zombies™ 2",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.ea.game.pvz2_row-55dc14a2.png",
       "source": "https://play.google.com/store/apps/details?id=com.ea.game.pvz2_row&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:36.983Z"
+      "updated": "2026-10-29T15:06:11.744Z"
     },
     "com.ea.gp.fifamobile": {
       "name": "EA SPORTS FC Soccer Mobile 27",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.ea.gp.fifamobile-ec4a0003.png",
       "source": "https://play.google.com/store/apps/details?id=com.ea.gp.fifamobile&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:33.985Z"
+      "updated": "2026-10-29T15:06:05.518Z"
+    },
+    "com.ebay.mobile": {
+      "name": "eBay online shopping & selling",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.ebay.mobile-2e50731e.png",
+      "source": "https://play.google.com/store/apps/details?id=com.ebay.mobile&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:36.699Z"
+    },
+    "com.evernote": {
+      "name": "Evernote - Note Organizer",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.evernote-21cdc713.png",
+      "source": "https://play.google.com/store/apps/details?id=com.evernote&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:38.199Z"
+    },
+    "com.expedia.bookings": {
+      "name": "Expedia: Hotels, Flights, Cars",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.expedia.bookings-9e4e0fbc.png",
+      "source": "https://play.google.com/store/apps/details?id=com.expedia.bookings&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:37.663Z"
+    },
+    "com.facebook.katana": {
+      "name": "Facebook",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.facebook.katana-732a151d.png",
+      "source": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:18.233Z"
+    },
+    "com.facebook.orca": {
+      "name": "Messenger",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.facebook.orca-3b58886d.png",
+      "source": "https://play.google.com/store/apps/details?id=com.facebook.orca&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:18.309Z"
     },
     "com.gameloft.android.ANMP.GloftA8HM": {
       "name": "Asphalt 8 - Car Racing Game",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.gameloft.android.ANMP.GloftA8HM-0b52cec3.png",
       "source": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA8HM&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:37.528Z"
+      "updated": "2026-10-29T15:06:12.529Z"
     },
     "com.gameloft.android.ANMP.GloftA9HM": {
       "name": "Asphalt Legends - Racing Game",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.gameloft.android.ANMP.GloftA9HM-b89b6c59.png",
       "source": "https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:33.477Z"
+      "updated": "2026-10-29T15:06:05.138Z"
     },
     "com.garena.game.codm": {
       "name": "Call of Duty®: Mobile - Garena",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.garena.game.codm-3310547d.png",
       "source": "https://play.google.com/store/apps/details?id=com.garena.game.codm&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:31.820Z"
+      "updated": "2026-10-29T15:06:02.112Z"
+    },
+    "com.github.android": {
+      "name": "GitHub",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.github.android-ecbb1b13.png",
+      "source": "https://play.google.com/store/apps/details?id=com.github.android&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:25.016Z"
+    },
+    "com.google.android.apps.bard": {
+      "name": "Google Gemini",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.google.android.apps.bard-a666127d.png",
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.bard&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:24.908Z"
+    },
+    "com.google.android.apps.docs": {
+      "name": "Google Drive",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.google.android.apps.docs-b268c129.png",
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.docs&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:21.064Z"
+    },
+    "com.google.android.apps.maps": {
+      "name": "Google Maps",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.google.android.apps.maps-c1a084bd.jpg",
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:20.668Z"
+    },
+    "com.google.android.apps.messaging": {
+      "name": "Google Messages",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.google.android.apps.messaging-272f73b6.png",
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:22.596Z"
+    },
+    "com.google.android.apps.photos": {
+      "name": "Google Photos",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.google.android.apps.photos-4f058e4c.png",
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.photos&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:20.482Z"
+    },
+    "com.google.android.apps.tachyon": {
+      "name": "Google Meet",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.google.android.apps.tachyon-33496d9d.png",
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:37.751Z"
+    },
+    "com.google.android.apps.tasks": {
+      "name": "Google Tasks",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.google.android.apps.tasks-b94d6c86.png",
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.tasks&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:39.016Z"
+    },
+    "com.google.android.apps.youtube.music": {
+      "name": "YouTube Music",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.google.android.apps.youtube.music-a594fd74.png",
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:16.685Z"
+    },
+    "com.google.android.calendar": {
+      "name": "Google Calendar",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.google.android.calendar-db189507.png",
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:20.873Z"
+    },
+    "com.google.android.gm": {
+      "name": "Gmail",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.google.android.gm-dc763cd3.png",
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:20.593Z"
+    },
+    "com.google.android.keep": {
+      "name": "Google Keep - Notes and lists",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.google.android.keep-746a8494.png",
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:20.978Z"
+    },
+    "com.google.android.videos": {
+      "name": "Google TV",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.google.android.videos-3f5a34e1.png",
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.videos&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:23.621Z"
+    },
+    "com.google.android.youtube": {
+      "name": "YouTube",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.google.android.youtube-03f10559.png",
+      "source": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:16.426Z"
+    },
+    "com.grabtaxi.passenger": {
+      "name": "Grab - Taxi & Food Delivery",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.grabtaxi.passenger-c8362839.png",
+      "source": "https://play.google.com/store/apps/details?id=com.grabtaxi.passenger&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:37.218Z"
     },
     "com.innersloth.spacemafia": {
       "name": "Among Us",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.innersloth.spacemafia-015d1cec.jpg",
       "source": "https://play.google.com/store/apps/details?id=com.innersloth.spacemafia&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:33.042Z"
+      "updated": "2026-10-29T15:06:04.586Z"
+    },
+    "com.instagram.android": {
+      "name": "Instagram",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.instagram.android-9061a0ab.png",
+      "source": "https://play.google.com/store/apps/details?id=com.instagram.android&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:18.130Z"
+    },
+    "com.instagram.barcelona": {
+      "name": "Threads",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.instagram.barcelona-ab2f113c.png",
+      "source": "https://play.google.com/store/apps/details?id=com.instagram.barcelona&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:23.955Z"
     },
     "com.kiloo.subwaysurf": {
       "name": "Subway Surfers",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.kiloo.subwaysurf-f13ffcc7.png",
       "source": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:34.622Z"
+      "updated": "2026-10-29T15:06:06.819Z"
     },
     "com.king.candycrushsaga": {
       "name": "Candy Crush Saga",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.king.candycrushsaga-f5253227.png",
       "source": "https://play.google.com/store/apps/details?id=com.king.candycrushsaga&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:34.722Z"
+      "updated": "2026-10-29T15:06:06.921Z"
     },
     "com.kitkagames.fallbuddies": {
       "name": "Stumble Guys",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.kitkagames.fallbuddies-01386786.jpg",
       "source": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:34.495Z"
+      "updated": "2026-10-29T15:06:06.726Z"
     },
     "com.kurogame.gplay.punishing.grayraven.en": {
       "name": "Punishing: Gray Raven",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.kurogame.gplay.punishing.grayraven.en-239ddf93.png",
       "source": "https://play.google.com/store/apps/details?id=com.kurogame.gplay.punishing.grayraven.en&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:35.395Z"
+      "updated": "2026-10-29T15:06:07.837Z"
     },
     "com.kurogame.wutheringwaves.global": {
       "name": "Wuthering Waves",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.kurogame.wutheringwaves.global-b6fb8bfe.png",
       "source": "https://play.google.com/store/apps/details?id=com.kurogame.wutheringwaves.global&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:35.286Z"
+      "updated": "2026-10-29T15:06:07.711Z"
+    },
+    "com.lazada.android": {
+      "name": "Lazada | All Shipping On Us",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.lazada.android-efd493f4.jpg",
+      "source": "https://play.google.com/store/apps/details?id=com.lazada.android&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:36.214Z"
     },
     "com.levelinfinite.sgameGlobal": {
       "name": "Honor of Kings",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.levelinfinite.sgameGlobal-1bc013eb.png",
       "source": "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:32.535Z"
+      "updated": "2026-10-29T15:06:03.573Z"
+    },
+    "com.linkedin.android": {
+      "name": "LinkedIn: Community & Network",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.linkedin.android-e1948210.png",
+      "source": "https://play.google.com/store/apps/details?id=com.linkedin.android&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:21.884Z"
+    },
+    "com.medium.reader": {
+      "name": "Medium: Read & Write Stories",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.medium.reader-9a3cf0ca.png",
+      "source": "https://play.google.com/store/apps/details?id=com.medium.reader&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:25.451Z"
     },
     "com.miHoYo.GenshinImpact": {
       "name": "Genshin Impact",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.miHoYo.GenshinImpact-2403b19f.png",
       "source": "https://play.google.com/store/apps/details?id=com.miHoYo.GenshinImpact&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:30.814Z"
+      "updated": "2026-10-29T15:06:00.432Z"
     },
     "com.miHoYo.bh3": {
       "name": "Honkai Impact 3rd",
       "icon": "https://cdn.discordapp.com/app-icons/1124351937098301590/eb88c509a5ab7dc61085e95df1716a99.webp?size=512",
       "source": "discord",
-      "updated": "2026-10-29T15:01:31.015Z"
+      "updated": "2026-10-29T15:06:00.727Z"
+    },
+    "com.microsoft.emmx": {
+      "name": "Microsoft Edge",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.microsoft.emmx-39e271d4.png",
+      "source": "https://play.google.com/store/apps/details?id=com.microsoft.emmx&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:22.967Z"
+    },
+    "com.microsoft.office.outlook": {
+      "name": "Microsoft Outlook",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.microsoft.office.outlook-b42cfa85.png",
+      "source": "https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:21.672Z"
+    },
+    "com.microsoft.teams": {
+      "name": "Microsoft Teams",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.microsoft.teams-c600ae2f.png",
+      "source": "https://play.google.com/store/apps/details?id=com.microsoft.teams&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:21.296Z"
     },
     "com.miniclip.eightballpool": {
       "name": "8 Ball Pool",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.miniclip.eightballpool-fb43c20a.png",
       "source": "https://play.google.com/store/apps/details?id=com.miniclip.eightballpool&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:34.963Z"
+      "updated": "2026-10-29T15:06:07.153Z"
     },
     "com.mobile.legends": {
       "name": "Mobile Legends: Bang Bang",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.mobile.legends-134f9299.png",
       "source": "https://play.google.com/store/apps/details?id=com.mobile.legends&hl=en",
-      "updated": "2026-10-29T15:01:32.030Z"
+      "updated": "2026-10-29T15:06:02.387Z"
     },
     "com.mojang.minecraftpe": {
       "name": "Minecraft: Dream it, Build it!",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.mojang.minecraftpe-76912545.png",
       "source": "https://play.google.com/store/apps/details?id=com.mojang.minecraftpe&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:33.140Z"
+      "updated": "2026-10-29T15:06:04.680Z"
     },
     "com.netease.idv.googleplay": {
       "name": "Identity V",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.netease.idv.googleplay-c956c71f.jpg",
       "source": "https://play.google.com/store/apps/details?id=com.netease.idv.googleplay&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:34.180Z"
+      "updated": "2026-10-29T15:06:06.294Z"
     },
     "com.netease.mrzhna": {
       "name": "LifeAfter",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.netease.mrzhna-d612cfdc.png",
       "source": "https://play.google.com/store/apps/details?id=com.netease.mrzhna&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:34.295Z"
+      "updated": "2026-10-29T15:06:06.390Z"
+    },
+    "com.netflix.mediaclient": {
+      "name": "Netflix",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.netflix.mediaclient-e07a41e8.png",
+      "source": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:19.548Z"
     },
     "com.nexon.bluearchive": {
       "name": "Blue Archive",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.nexon.bluearchive-8c7bb59e.png",
       "source": "https://play.google.com/store/apps/details?id=com.nexon.bluearchive&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:37.815Z"
+      "updated": "2026-10-29T15:06:12.829Z"
     },
     "com.nianticlabs.pokemongo": {
       "name": "Pokémon GO",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.nianticlabs.pokemongo-c5e973bd.png",
       "source": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:33.594Z"
+      "updated": "2026-10-29T15:06:05.242Z"
+    },
+    "com.openai.chatgpt": {
+      "name": "ChatGPT",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.openai.chatgpt-4e2fd1df.png",
+      "source": "https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:24.817Z"
+    },
+    "com.pinterest": {
+      "name": "Pinterest",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.pinterest-94781650.png",
+      "source": "https://play.google.com/store/apps/details?id=com.pinterest&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:21.972Z"
     },
     "com.playrix.gardenscapes": {
       "name": "Gardenscapes",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.playrix.gardenscapes-5c1e6a1b.png",
       "source": "https://play.google.com/store/apps/details?id=com.playrix.gardenscapes&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:36.556Z"
+      "updated": "2026-10-29T15:06:11.453Z"
     },
     "com.playrix.homescapes": {
       "name": "Homescapes",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.playrix.homescapes-e6b0f3af.png",
       "source": "https://play.google.com/store/apps/details?id=com.playrix.homescapes&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:36.316Z"
+      "updated": "2026-10-29T15:06:10.851Z"
     },
     "com.proximabeta.mf.uamo": {
       "name": "Arena Breakout: Realistic FPS",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.proximabeta.mf.uamo-6f8d2f3a.png",
       "source": "https://play.google.com/store/apps/details?id=com.proximabeta.mf.uamo&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:38.319Z"
+      "updated": "2026-10-29T15:06:15.056Z"
     },
     "com.pubg.krmobile": {
       "name": "PUBG Mobile",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.pubg.krmobile-d30f7adc.png",
       "source": "https://play.google.com/store/apps/details?id=com.pubg.krmobile&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:31.483Z"
+      "updated": "2026-10-29T15:06:01.246Z"
     },
     "com.pubg.newstate": {
       "name": "NEW STATE : NEW ERA OF BR",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.pubg.newstate-3dae2187.png",
       "source": "https://play.google.com/store/apps/details?id=com.pubg.newstate&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:35.491Z"
+      "updated": "2026-10-29T15:06:07.923Z"
+    },
+    "com.quora.android": {
+      "name": "Quora: the knowledge platform",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.quora.android-cf0c42ec.png",
+      "source": "https://play.google.com/store/apps/details?id=com.quora.android&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:25.725Z"
+    },
+    "com.reddit.frontpage": {
+      "name": "Reddit",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.reddit.frontpage-be305f3f.png",
+      "source": "https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:19.335Z"
     },
     "com.rekoo.pubgm": {
       "name": "PUBG MOBILE：絕地求生M",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.rekoo.pubgm-e2e39be3.png",
       "source": "https://play.google.com/store/apps/details?id=com.rekoo.pubgm&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:31.316Z"
+      "updated": "2026-10-29T15:06:01.132Z"
     },
     "com.riotgames.league.wildrift": {
       "name": "League of Legends: Wild Rift",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.riotgames.league.wildrift-31bd572a.jpg",
       "source": "https://play.google.com/store/apps/details?id=com.riotgames.league.wildrift&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:32.434Z"
+      "updated": "2026-10-29T15:06:03.235Z"
     },
     "com.riotgames.league.wildrifttw": {
       "name": "《英雄聯盟：激鬥峽谷》",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.riotgames.league.wildrifttw-31bd572a.jpg",
       "source": "https://play.google.com/store/apps/details?id=com.riotgames.league.wildrifttw&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:35.743Z"
+      "updated": "2026-10-29T15:06:10.329Z"
     },
     "com.riotgames.league.wildriftvn": {
       "name": "LMHT: Tốc Chiến",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.riotgames.league.wildriftvn-75a1f015.jpg",
       "source": "https://play.google.com/store/apps/details?id=com.riotgames.league.wildriftvn&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:35.830Z"
+      "updated": "2026-10-29T15:06:10.468Z"
     },
     "com.roblox.client": {
       "name": "Roblox",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.roblox.client-9b7f4ba0.png",
       "source": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:33.265Z"
+      "updated": "2026-10-29T15:06:04.767Z"
     },
     "com.rockstargames.gtasa": {
       "name": "Grand Theft Auto: San Andreas",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.rockstargames.gtasa-5c563de8.png",
       "source": "https://play.google.com/store/apps/details?id=com.rockstargames.gtasa&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:37.057Z"
+      "updated": "2026-10-29T15:06:11.970Z"
     },
     "com.rockstargames.gtavc": {
       "name": "Grand Theft Auto: Vice City",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.rockstargames.gtavc-b43251f4.png",
       "source": "https://play.google.com/store/apps/details?id=com.rockstargames.gtavc&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:37.179Z"
+      "updated": "2026-10-29T15:06:12.067Z"
     },
     "com.scopely.monopolygo": {
       "name": "MONOPOLY GO!",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.scopely.monopolygo-6157c59a.png",
       "source": "https://play.google.com/store/apps/details?id=com.scopely.monopolygo&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:36.824Z"
+      "updated": "2026-10-29T15:06:11.645Z"
+    },
+    "com.shopee.sg": {
+      "name": "Shopee 11.11 Big Sale",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.shopee.sg-76ebd646.png",
+      "source": "https://play.google.com/store/apps/details?id=com.shopee.sg&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:35.905Z"
+    },
+    "com.snapchat.android": {
+      "name": "Snapchat",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.snapchat.android-606337b2.png",
+      "source": "https://play.google.com/store/apps/details?id=com.snapchat.android&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:19.136Z"
+    },
+    "com.soundcloud.android": {
+      "name": "SoundCloud: Discover Music",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.soundcloud.android-9f719d7a.png",
+      "source": "https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:23.318Z"
+    },
+    "com.spotify.music": {
+      "name": "Spotify: Music and Podcasts",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.spotify.music-07d50e3c.jpg",
+      "source": "https://play.google.com/store/apps/details?id=com.spotify.music&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:16.776Z"
     },
     "com.supercell.boombeach": {
       "name": "Boom Beach: War Strategy Game",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.supercell.boombeach-e7b6a1b5.png",
       "source": "https://play.google.com/store/apps/details?id=com.supercell.boombeach&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:36.214Z"
+      "updated": "2026-10-29T15:06:10.767Z"
     },
     "com.supercell.brawlstars": {
       "name": "Brawl Stars",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.supercell.brawlstars-739a1e56.png",
       "source": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:32.927Z"
+      "updated": "2026-10-29T15:06:04.492Z"
     },
     "com.supercell.clashofclans": {
       "name": "Clash of Clans",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.supercell.clashofclans-1a19c31c.png",
       "source": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:32.674Z"
+      "updated": "2026-10-29T15:06:04.140Z"
     },
     "com.supercell.clashroyale": {
       "name": "Clash Royale",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.supercell.clashroyale-1e1afbf8.png",
       "source": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:32.835Z"
+      "updated": "2026-10-29T15:06:04.347Z"
     },
     "com.supercell.hayday": {
       "name": "Hay Day",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.supercell.hayday-ef08fbbe.png",
       "source": "https://play.google.com/store/apps/details?id=com.supercell.hayday&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:36.048Z"
+      "updated": "2026-10-29T15:06:10.654Z"
+    },
+    "com.taobao.taobao": {
+      "name": "Taobao",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.taobao.taobao-e9259ad9.png",
+      "source": "https://play.google.com/store/apps/details?id=com.taobao.taobao&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:26.195Z"
     },
     "com.tencent.ig": {
       "name": "PUBG MOBILE",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.tencent.ig-5ac55540.png",
       "source": "https://play.google.com/store/apps/details?id=com.tencent.ig&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:31.203Z"
+      "updated": "2026-10-29T15:06:00.927Z"
     },
     "com.tencent.iglite": {
       "name": "PUBG MOBILE LITE",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.tencent.iglite-e7c21ff7.png",
       "source": "https://play.google.com/store/apps/details?id=com.tencent.iglite&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:35.588Z"
+      "updated": "2026-10-29T15:06:10.162Z"
+    },
+    "com.tencent.mm": {
+      "name": "WeChat",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.tencent.mm-7781a2f6.png",
+      "source": "https://play.google.com/store/apps/details?id=com.tencent.mm&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:24.623Z"
     },
     "com.tgc.sky.android": {
       "name": "Sky: Children of the Light",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.tgc.sky.android-f625e12a.png",
       "source": "https://play.google.com/store/apps/details?id=com.tgc.sky.android&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:34.398Z"
+      "updated": "2026-10-29T15:06:06.627Z"
+    },
+    "com.todoist": {
+      "name": "Todoist: To Do List & Calendar",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.todoist-b804380f.png",
+      "source": "https://play.google.com/store/apps/details?id=com.todoist&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:38.524Z"
+    },
+    "com.trello": {
+      "name": "Trello: Daily Task Tracker",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.trello-eea72771.png",
+      "source": "https://play.google.com/store/apps/details?id=com.trello&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:38.611Z"
+    },
+    "com.twitter.android": {
+      "name": "X",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.twitter.android-6acb6d70.jpg",
+      "source": "https://play.google.com/store/apps/details?id=com.twitter.android&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:18.859Z"
+    },
+    "com.ubercab": {
+      "name": "Uber: Rides, eats, hotels",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.ubercab-b14122bb.png",
+      "source": "https://play.google.com/store/apps/details?id=com.ubercab&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:37.012Z"
+    },
+    "com.viber.voip": {
+      "name": "Rakuten Viber Messenger",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.viber.voip-cb1f230c.jpg",
+      "source": "https://play.google.com/store/apps/details?id=com.viber.voip&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:22.371Z"
     },
     "com.vng.pubgmobile": {
       "name": "PUBG Mobile VN",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.vng.pubgmobile-86dbcdb0.png",
       "source": "https://play.google.com/store/apps/details?id=com.vng.pubgmobile&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:31.585Z"
+      "updated": "2026-10-29T15:06:01.452Z"
+    },
+    "com.wbd.stream": {
+      "name": "HBO Max: Stream TV & Movies",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.wbd.stream-eccb9451.png",
+      "source": "https://play.google.com/store/apps/details?id=com.wbd.stream&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:20.389Z"
+    },
+    "com.whatsapp": {
+      "name": "WhatsApp",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.whatsapp-b29a53a5.png",
+      "source": "https://play.google.com/store/apps/details?id=com.whatsapp&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:17.900Z"
+    },
+    "com.zhiliaoapp.musically": {
+      "name": "TikTok - Videos, Shop & LIVE",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/com.zhiliaoapp.musically-f1460d10.png",
+      "source": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:19.031Z"
     },
     "jp.konami.pesam": {
       "name": "eFootball™",
       "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/jp.konami.pesam-dcf14649.png",
       "source": "https://play.google.com/store/apps/details?id=jp.konami.pesam&hl=en&gl=US",
-      "updated": "2026-10-29T15:01:33.767Z"
+      "updated": "2026-10-29T15:06:05.348Z"
+    },
+    "org.mozilla.firefox": {
+      "name": "Firefox Fast & Private Browser",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/org.mozilla.firefox-f8a1c9c8.png",
+      "source": "https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:22.786Z"
+    },
+    "org.telegram.messenger": {
+      "name": "Telegram",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/org.telegram.messenger-85d76dab.png",
+      "source": "https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:22.171Z"
+    },
+    "org.thoughtcrime.securesms": {
+      "name": "Signal Private Messenger",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/org.thoughtcrime.securesms-fff6cc41.png",
+      "source": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:24.721Z"
+    },
+    "us.zoom.videomeetings": {
+      "name": "Zoom Workplace",
+      "icon": "https://cdn.jsdelivr.net/gh/Edith-AOSP/gamespace-rpc-icons@main/icons/us.zoom.videomeetings-c9f8b6a5.png",
+      "source": "https://play.google.com/store/apps/details?id=us.zoom.videomeetings&hl=en&gl=US",
+      "updated": "2026-10-29T15:06:21.474Z"
     }
   }
 }

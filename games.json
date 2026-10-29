@@ -214,5 +214,221 @@
   },
   {
     "package": "com.tencent.tmgp.wec"
+  },
+  {
+    "package": "com.google.android.youtube"
+  },
+  {
+    "package": "com.google.android.apps.youtube.music"
+  },
+  {
+    "package": "com.spotify.music"
+  },
+  {
+    "package": "com.discord"
+  },
+  {
+    "package": "com.whatsapp"
+  },
+  {
+    "package": "com.instagram.android"
+  },
+  {
+    "package": "com.facebook.katana"
+  },
+  {
+    "package": "com.facebook.orca"
+  },
+  {
+    "package": "com.twitter.android"
+  },
+  {
+    "package": "com.zhiliaoapp.musically"
+  },
+  {
+    "package": "com.snapchat.android"
+  },
+  {
+    "package": "com.reddit.frontpage"
+  },
+  {
+    "package": "com.netflix.mediaclient"
+  },
+  {
+    "package": "com.amazon.avod.thirdpartyclient"
+  },
+  {
+    "package": "com.disney.disneyplus"
+  },
+  {
+    "package": "com.wbd.stream"
+  },
+  {
+    "package": "com.google.android.apps.photos"
+  },
+  {
+    "package": "com.google.android.gm"
+  },
+  {
+    "package": "com.google.android.apps.maps"
+  },
+  {
+    "package": "com.google.android.calendar"
+  },
+  {
+    "package": "com.google.android.keep"
+  },
+  {
+    "package": "com.google.android.apps.docs"
+  },
+  {
+    "package": "com.google.android.apps.meetings"
+  },
+  {
+    "package": "com.microsoft.teams"
+  },
+  {
+    "package": "com.Slack"
+  },
+  {
+    "package": "us.zoom.videomeetings"
+  },
+  {
+    "package": "com.microsoft.office.outlook"
+  },
+  {
+    "package": "com.linkedin.android"
+  },
+  {
+    "package": "com.pinterest"
+  },
+  {
+    "package": "org.telegram.messenger"
+  },
+  {
+    "package": "com.viber.voip"
+  },
+  {
+    "package": "com.google.android.apps.messaging"
+  },
+  {
+    "package": "com.android.chrome"
+  },
+  {
+    "package": "org.mozilla.firefox"
+  },
+  {
+    "package": "com.brave.browser"
+  },
+  {
+    "package": "com.microsoft.emmx"
+  },
+  {
+    "package": "com.amazon.mp3"
+  },
+  {
+    "package": "com.soundcloud.android"
+  },
+  {
+    "package": "com.deezer.android.deezer"
+  },
+  {
+    "package": "com.apple.android.music"
+  },
+  {
+    "package": "com.google.android.videos"
+  },
+  {
+    "package": "com.twitch.android.app"
+  },
+  {
+    "package": "com.instagram.barcelona"
+  },
+  {
+    "package": "com.bsky.app"
+  },
+  {
+    "package": "com.tencent.mm"
+  },
+  {
+    "package": "org.thoughtcrime.securesms"
+  },
+  {
+    "package": "com.openai.chatgpt"
+  },
+  {
+    "package": "com.google.android.apps.bard"
+  },
+  {
+    "package": "com.github.android"
+  },
+  {
+    "package": "com.medium.reader"
+  },
+  {
+    "package": "com.quora.android"
+  },
+  {
+    "package": "com.alibaba.aliexpresshd"
+  },
+  {
+    "package": "com.taobao.taobao"
+  },
+  {
+    "package": "com.shopee.sg"
+  },
+  {
+    "package": "com.lazada.android"
+  },
+  {
+    "package": "com.amazon.mShop.android.shopping"
+  },
+  {
+    "package": "com.ebay.mobile"
+  },
+  {
+    "package": "com.ubercab"
+  },
+  {
+    "package": "com.grabtaxi.passenger"
+  },
+  {
+    "package": "com.airbnb.android"
+  },
+  {
+    "package": "com.booking"
+  },
+  {
+    "package": "com.expedia.bookings"
+  },
+  {
+    "package": "com.google.android.apps.tachyon"
+  },
+  {
+    "package": "com.dropbox.android"
+  },
+  {
+    "package": "com.box.android"
+  },
+  {
+    "package": "com.evernote"
+  },
+  {
+    "package": "com.notion.id"
+  },
+  {
+    "package": "com.todoist"
+  },
+  {
+    "package": "com.trello"
+  },
+  {
+    "package": "com.google.android.apps.tasks"
+  },
+  {
+    "package": "com.adobe.reader"
+  },
+  {
+    "package": "com.duolingo"
   }
 ]
